@@ -1,0 +1,61 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    margin:  50px; ;
+}
+div{
+    display: inline;
+}
+.navbar-container{
+    margin-top:60px ;
+}
+
+.list-item{
+    display: inline;
+    padding: 10px;
+}
+
+.list{
+    display: inline;
+    margin-left: 200px;
+    font: 20px Poppins;
+    font-weight: 600;
+    padding: 120px;
+    
+    
+}
+.button-group{
+    margin-left: 200px;
+}
+
+/* navbar end here */
+.hero-container{
+    display: inline;
+}
+.square{
+  
+   position:absolute;
+   z-index: 1;
+   top: 270px;
+   left: 0px;;
+   
+}
+.person{
+   z-index: 2;
+   
+    position: relative;
+    bottom: 350px;
+
+}
+.star{
+    display: block;
+    padding-left: 90%;
+    padding-top: 100px;
+}
+.globe{
+    display: block;
+    padding-left: 800px;
+    padding-bottom: 100px;
+}
